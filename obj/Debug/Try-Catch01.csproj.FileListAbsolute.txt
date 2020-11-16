@@ -1,0 +1,7 @@
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\bin\Debug\Try-Catch01.exe.config
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\bin\Debug\Try-Catch01.exe
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\bin\Debug\Try-Catch01.pdb
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\obj\Debug\Try-Catch01.csprojAssemblyReference.cache
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\obj\Debug\Try-Catch01.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\obj\Debug\Try-Catch01.exe
+C:\Users\Učenik 1\source\repos\Try-Catch01\Try-Catch01\obj\Debug\Try-Catch01.pdb
